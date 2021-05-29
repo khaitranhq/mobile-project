@@ -1,0 +1,4 @@
+[submodule "mobile-api"]
+	path = mobile-api
+	url = git@github.com:trangmoon309/mobile-api-django.git
+	branch = main
