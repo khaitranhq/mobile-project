@@ -2,7 +2,3 @@
 	path = mobile-api
 	url = git@github.com:trangmoon309/mobile-api-django.git
 	branch = main
-[submodule "mobile-android"]
-	path = mobile-android
-	url = git@github.com:khanhquynh133/CookingApp.git
-	branch = master
